@@ -1,0 +1,6 @@
+Test Accuracy: 0.8041
+Test Precision: 0.8518
+Test Recall: 0.7324
+Test Specificity: 0.8759
+
+Samples = 100k (50k each)
